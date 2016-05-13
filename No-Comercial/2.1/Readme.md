@@ -1,6 +1,9 @@
 # Versión 2.1
 
 ## Cambios
+
+En esta versión arreglamos la estabilidad del addon de Deportes.
+
 ## 2.1
 
 - Actualización no oficial Acestream para que funcione la aplicación de Deportes.
