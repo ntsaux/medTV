@@ -10,7 +10,7 @@ En esta versión arreglamos la estabilidad del addon de Deportes.
 
 ## 2.1.1
 
-- Añadida notificación al pulsar sobre `Pelis y Series y Canal+`.
+- Añadida notificación al pulsar sobre `Pelis y Series` y `Canal+`.
 
 ## 2.1.2
 
