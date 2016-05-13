@@ -2,7 +2,7 @@
 
 ## Cambios
 
-En esta versión arreglamos la estabilidad del addon de Deportes.
+En esta versión arreglamos la estabilidad del addon de `Deportes`.
 
 ## 2.1
 
