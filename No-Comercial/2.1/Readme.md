@@ -26,5 +26,5 @@ En esta versión arreglamos la estabilidad del addon de `Deportes`.
 - Eliminado `Cairo Dock` de Raspbian ya que hacía que no se vieran bien los iconos del escritorio.
 - Añadido en el nombre del dispositibo en `Kodi` la versión de `medTV` (en `WiFi/Bluetooth`).
 - Añadido soporte para archivos con extensión `.mkv` en el addon `gdrive` (Google Drive).
-- Asignada la tecla `v` del teclado para ir a la pantalla de video.
+- Asignada la tecla `v` del teclado para ir a la pantalla de reproducción de video.
 - Arreglado el script de `Actualizar canales` de `Acestream` ya que no descomprimía bien el archivo descargado de Dropbox y el tiempo de espera para descargar era demasiado corto y se ha prolongado a 1 minuto.
