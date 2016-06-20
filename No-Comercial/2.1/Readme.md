@@ -28,3 +28,8 @@ En esta versión arreglamos la estabilidad del addon de `Deportes`.
 - Añadido soporte para archivos con extensión `.mkv` en el addon `gdrive` (Google Drive).
 - Asignada la tecla `v` del teclado para ir a la pantalla de reproducción de video.
 - Arreglado el script de `Actualizar canales` de `Acestream` ya que no descomprimía bien el archivo descargado de Dropbox y el tiempo de espera para descargar era demasiado corto y se ha prolongado a 1 minuto.
+
+- Montado desde cero con nueva distribución de memoria (6GB asignados a `Retropie`, a `Raspbian` lo mismo de antes y el resto a `OpenElec`).
+- Eliminado acceso a `Retropie` tanto en `Kodi` como en `Raspbian`.
+- Añadido acceso a la agenda de Arenavision de `Catoal` en el submenú de `Deportes`.
+- Arreglado acceso directo a `YouTube` en el menú principal.
