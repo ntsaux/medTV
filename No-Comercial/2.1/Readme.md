@@ -34,3 +34,8 @@ En esta versión arreglamos la estabilidad del addon de `Deportes`.
 - Añadido acceso a la agenda de Arenavision de `Catoal` en el submenú de `Deportes`.
 - Arreglado acceso directo a `YouTube` en el menú principal.
 - Eliminado acceso a la agenda de Arenavision de `Catoal` en el submenú de `Deportes` ya que dejó de funcionar.
+
+## 2.1.5
+
+- Últimos cambios de la versión 2.1.4, para tener todo controlado en una única versión.
+- Añadido de nuevo acceso a Retropie _(sólo en versión no comercial)_.
