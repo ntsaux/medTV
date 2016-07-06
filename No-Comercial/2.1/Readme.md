@@ -33,3 +33,4 @@ En esta versión arreglamos la estabilidad del addon de `Deportes`.
 - Eliminado acceso a `Retropie` tanto en `Kodi` como en `Raspbian`.
 - Añadido acceso a la agenda de Arenavision de `Catoal` en el submenú de `Deportes`.
 - Arreglado acceso directo a `YouTube` en el menú principal.
+- Eliminado acceso a la agenda de Arenavision de `Catoal` en el submenú de `Deportes` ya que dejó de funcionar.
