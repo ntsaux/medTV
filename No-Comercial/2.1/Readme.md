@@ -38,4 +38,6 @@ En esta versión arreglamos la estabilidad del addon de `Deportes`.
 ## 2.1.5
 
 - Últimos cambios de la versión 2.1.4, para tener todo controlado en una única versión.
-- Añadido de nuevo acceso a Retropie _(sólo en versión no comercial)_.
+- Eliminada opción `Perfiles` del submenú de `Configuración` que por alguna razón seguía ahí.
+- Asignada tecla `V` para ir a la pantalla de reproducción de video, que por alguna razón no lo estaba.
+- Añadido de nuevo acceso a Retropie *(sólo en versión no comercial)*.
