@@ -6,4 +6,4 @@
 
 #Versión A1:
 
-- Incluido proceso de seguridad para evitar copia (OffL y OnL).
+- Incluido proceso de seguridad *offline* para evitar copia.
