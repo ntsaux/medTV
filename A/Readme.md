@@ -7,3 +7,4 @@
 #Versión A1:
 
 - Incluido proceso de seguridad *offline* para evitar copia.
+- Eliminada ruta de fondo por defecto al fondo con el logo de NTS.
