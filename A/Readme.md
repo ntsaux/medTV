@@ -9,6 +9,6 @@
 - Incluido proceso de seguridad *offline* para evitar copia.
 - Eliminada ruta de fondo por defecto al fondo con el logo de NTS.
 
-#Versión A1:
+#Versión A2:
 
 - Eliminado el logo de NTS en DEPORTES. Se ha modificado el script de "/storage/ss/deportes.sh", que era de donde se cargaba el fondo que aparecía en la aplicación.
