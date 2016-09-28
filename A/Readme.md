@@ -12,3 +12,15 @@
 #Versión A2:
 
 - Eliminado el logo de NTS en DEPORTES. Se ha modificado el script de "/storage/ss/deportes.sh", que era de donde se cargaba el fondo que aparecía en la aplicación.
+
+#Versión A3:
+
+- Actualizado menú de Pelis y Series. Ahora tiene: "Pelis a la carta", "El Taquillazo", "La Butaca" y "Exodus".
+- Actualizado botón de Deportes. Ahora tiene un submenú con tres opciones: 
+    "Agenda ArenaVision": la opciones de arenavision con los horarios incluidos.
+    "ArenaVision": La misma arenavision de siempre.
+    "La Liga". Acceso directo a los canales de liga del addon Catoal.
+- Añadido botón de "CANALES TV" con tres botones:
+    "TDT": Canales de la TDT de España.
+    "TV a la carta": El addon de TV a la carta que había inicialmente.
+    "TV internacional": Canales de televisión con canales de otros países.
