@@ -27,10 +27,10 @@
 
 #Versión A4:
 
-- Arreglado buscador de "Pelis a la carta". Ahora al hacer una búsqueda ya sí saldrán los diferentes servidores con el contenido deseado.
+- Arreglado buscador de "**Pelis a la carta**". Ahora al hacer una búsqueda ya sí saldrán los diferentes servidores con el contenido deseado.
 - Añadido un nuevo botón de "INFANTIL" al menú principal. Este consta de tres opciones:
-    - Películas: películas infantiles de todo tipo 
-    - Dibujos/Series: series de dibujos animados de todo tipo
-    - Anime: series de animación japonesa 
+    - **Películas**: películas infantiles de todo tipo 
+    - **Dibujos/Series**: series de dibujos animados de todo tipo
+    - **Anime**: series de animación japonesa 
 - Añadido la opción de borrar la biblioteca. A esta opción se puede acceder:
-    - Configuración -> "Borrar biblioteca"
+    - **Configuración** -> "**Borrar biblioteca**"
