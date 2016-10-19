@@ -33,4 +33,4 @@
     - Dibujos/Series: series de dibujos animados de todo tipo
     - Anime: series de animación japonesa 
 - Añadido la opción de borrar la biblioteca. A esta opción se puede acceder:
-    Configuración -> "Borrar biblioteca"
+    - Configuración -> "Borrar biblioteca"
