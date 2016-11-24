@@ -50,7 +50,7 @@
     - **Eliminadas las opciones Google Drive y Dropbox**
     - **Youtube**: Anteriormente  en el menú principal
     - **Vimeo**: Opción ya existente
-    - Añadida sección **"Documentales"** dentro de Pelis y Series
+- Añadida sección **"Documentales"** dentro de Pelis y Series
 - Arreglada la **agenda de arenavisión**
 - Sustitución de la antigua **butaca** por una nueva más funcional
 - Acceso a las opciones de **Canal+** desde el menú directamente (sin necesidad de elegir servidores etc)
