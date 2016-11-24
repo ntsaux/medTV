@@ -49,6 +49,7 @@
     - **Spotify**: Anteriormente en el menú principal
 
 - Modificación del botón de "VIDEOS" del menú principal. Este consta de dos opciones:
+    - **Eliminadas las opciones Google Drive y Dropbox**
     - **Youtube**: Anteriormente  en el menú principal
     - **Vimeo**: Opción ya existente
     
