@@ -58,7 +58,7 @@
 
 #Versión A6:
 
-- Añadida la opción Mis favoritos en el menú principal.
+- Añadida la opción Favoritos en el menú principal.
     - **Se añaden favoritos de serie**: Pelisdanko, pordede y SeriesDanko.
 - Reincorporación de todas las opciones del Canal+.
 - Añadida cuenta en distintos servidores (siendo Pordede el más importante).
