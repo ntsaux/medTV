@@ -61,6 +61,6 @@
 - Añadida la opción Mis favoritos en el menú principal.
     - **Se añaden favoritos de serie**: Pelisdanko, pordede y SeriesDanko.
 - Reincorporación de todas las opciones del Canal+.
-- Añadida cuenta en distintos servidores (incluido Pordede).
+- Añadida cuenta en distintos servidores (siendo Pordede el más importante).
 - Buscador de Pelis a la carta optimizado.
 
