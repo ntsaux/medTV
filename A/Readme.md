@@ -55,3 +55,12 @@
 - Sustitución de la antigua **butaca** por una nueva más funcional
 - Acceso a las opciones de **Canal+** desde el menú directamente (sin necesidad de elegir servidores etc)
 - La opción del menú "TDT" pasa a ser "Televisión"
+
+#Versión A6:
+
+- Añadida la opción Mis favoritos en el menú principal.
+    - **Se añaden favoritos de serie**: Pelisdanko, pordede y SeriesDanko.
+- Reincorporación de todas las opciones del Canal+.
+- Añadida cuenta en distintos servidores (incluido Pordede).
+- Buscador de Pelis a la carta optimizado.
+
