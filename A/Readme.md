@@ -64,3 +64,10 @@
 - Añadida cuenta en distintos servidores (siendo Pordede el más importante).
 - Buscador de Pelis a la carta optimizado.
 
+#Versión B0:
+
+- Reorganización completa del menú.
+    - **Desaparecen accesos directos por categorias**
+    - **Sustituidos por accesos directos a addons completos para garantizar mas estabilidad futura (en apartado videos)**. Catoal, Pelis a la carta, AdryanList, Youtube, Vimeo.
+    - **Contenidos importantes anteriores colocados en el menú principal en el submenú Contenidos favoritos. Susceptibles de ser modificados por el usuario**.
+  
