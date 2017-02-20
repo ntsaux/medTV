@@ -68,6 +68,6 @@
 
 - Reorganización completa del menú.
     - **Desaparecen accesos directos por categorías**.
-    - **Sustituidos por accesos directos a addons completos para garantizar mas estabilidad futura (en apartado videos)**. Catoal, Pelis a la carta, AdryanList, Youtube, Vimeo.
+    - **Sustituidos por accesos directos a addons completos para garantizar mas estabilidad futura (en apartado videos)**. Catoal, Pelis a la carta, Exodus, AdryanList, Youtube, Vimeo.
     - **Contenidos importantes anteriores colocados en el menú principal en el submenú "Contenidos favoritos". Susceptibles de ser modificados por el usuario**.
   
